@@ -21,7 +21,9 @@ def move(batch):
     args.vars = list(filter(None, args.vars))
 
     path = args.vars[0]
+    print(path)
     jpgs = pathmapping(path,'*.jpg',False)
+    print(jpgs)
 
     pages = args.vars[1:]
 
@@ -55,7 +57,6 @@ if args.move:
         paths = list(reader)
 
     for newarg in paths:
-        print (newarg)
         args.vars = newarg
         if savepath==None:
             move(False)
