@@ -4,7 +4,7 @@ Garbageman is a simple script to handle jpg files, selecting non-desired pages a
 ## Usage
 
 ### CSV File
-----------
+
 Path | Page Unwanted | Page Unwanted | Page Unwanted |
 ----------
 
