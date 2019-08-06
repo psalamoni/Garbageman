@@ -8,7 +8,9 @@ Garbageman is a simple script to handle jpg files, selecting non-desired pages a
 #### CSV File
 
 Path1 | Page Unwanted1 | Page Unwanted2 | Page Unwanted3 ... Page UnwantedN |
+
 Path2 | Page Unwanted1 | Page Unwanted2 | Page Unwanted3 ... Page UnwantedN |
+
 Path3 | Page Unwanted1 | Page Unwanted2 | Page Unwanted3 ... Page UnwantedN |
 
 #### Script
@@ -25,7 +27,9 @@ python3 garbageman.py -m CSV-PATH-FILE SAVING-PATH
 #### CSV File
 
 Path1 |
+
 Path2 |
+
 Path3 |
 
 #### Script
