@@ -20,6 +20,12 @@ python3 garbageman.py -m CSV-PATH-FILE SAVING-PATH
 
 ### Moving JPG Files
 
+#### CSV File
+
+Path
+
+#### Script
+
 For move all jpg files, specify the csv path and saving path [For moving to its upper folder, just leave it blank]:
 ```
 python3 garbageman.py -u CSV-PATH-FILE SAVING-PATH
